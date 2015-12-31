@@ -11,7 +11,7 @@
 
 int main()
 {
-	puts("Hello World!"); // Print message to console window
+	puts("Hello Work!"); // Print message to console window
 
 	return 0;
 }
